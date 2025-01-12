@@ -8,3 +8,10 @@ p{
     border-radius: 5px;
     box-shadow: salmon 5px 5px;
 }
+
+.new{
+    background-color: rgb(68, 224, 214);
+    border: 20px 20px;
+    border-radius: 5px;
+    box-shadow: rgba(15, 255, 247, 0.308) 5px 5px;
+}
